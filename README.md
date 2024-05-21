@@ -1,1 +1,2 @@
-# figures
+# Figures
+## Console Application

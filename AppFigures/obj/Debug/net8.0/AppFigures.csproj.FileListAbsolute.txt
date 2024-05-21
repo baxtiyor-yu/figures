@@ -1,0 +1,14 @@
+C:\Users\harhi\source\repos\allProjects\AppFigures\bin\Debug\net8.0\AppFigures.exe
+C:\Users\harhi\source\repos\allProjects\AppFigures\bin\Debug\net8.0\AppFigures.deps.json
+C:\Users\harhi\source\repos\allProjects\AppFigures\bin\Debug\net8.0\AppFigures.runtimeconfig.json
+C:\Users\harhi\source\repos\allProjects\AppFigures\bin\Debug\net8.0\AppFigures.dll
+C:\Users\harhi\source\repos\allProjects\AppFigures\bin\Debug\net8.0\AppFigures.pdb
+C:\Users\harhi\source\repos\allProjects\AppFigures\obj\Debug\net8.0\AppFigures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harhi\source\repos\allProjects\AppFigures\obj\Debug\net8.0\AppFigures.AssemblyInfoInputs.cache
+C:\Users\harhi\source\repos\allProjects\AppFigures\obj\Debug\net8.0\AppFigures.AssemblyInfo.cs
+C:\Users\harhi\source\repos\allProjects\AppFigures\obj\Debug\net8.0\AppFigures.csproj.CoreCompileInputs.cache
+C:\Users\harhi\source\repos\allProjects\AppFigures\obj\Debug\net8.0\AppFigures.dll
+C:\Users\harhi\source\repos\allProjects\AppFigures\obj\Debug\net8.0\refint\AppFigures.dll
+C:\Users\harhi\source\repos\allProjects\AppFigures\obj\Debug\net8.0\AppFigures.pdb
+C:\Users\harhi\source\repos\allProjects\AppFigures\obj\Debug\net8.0\AppFigures.genruntimeconfig.cache
+C:\Users\harhi\source\repos\allProjects\AppFigures\obj\Debug\net8.0\ref\AppFigures.dll
